@@ -768,6 +768,24 @@ display: inline-block;
         margin-top: 20px;
         
     }
+
+    .contact .container .content-contact h2{
+        color: white;
+        border:none;
+        font-size: 19px;
+    }
+
+    .contact .container .content-contact a{
+        padding: 10px 15px;
+        font-size: 15px;
+    }
+
+    .contact .container .content-contact .phone{
+        color: white;
+        margin: 0 5px 0 20px;
+        font-size: 16px;
+    }
+    
 }
 
 @media(max-width:500px){
